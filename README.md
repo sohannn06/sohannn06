@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Younus Nobi Sohan</h1>
-<h3 align="center">A passionate ai computer programmer.</h3>
+
 
 
 
